@@ -1,0 +1,13 @@
+zad 1) brzeg koła
+256	8
+200	400
+wnętrze koła
+7852
+zad2)
+1000pkt 3,2280	
+5000pkt 3,1656
+wszystkie pkt 3,1416
+zad3)
+eps_1000 0,0864
+eps_1700 0,0184
+

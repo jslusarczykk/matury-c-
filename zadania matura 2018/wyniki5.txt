@@ -1,0 +1,7 @@
+zad1)
+2015
+zad 2)
+55 dni, od 17 marca 2015 roku do 10 maja 2015 roku
+zad4) a)ten dzień to 19 kwietnia 2015 roku
+b)188 dni
+c)1399242

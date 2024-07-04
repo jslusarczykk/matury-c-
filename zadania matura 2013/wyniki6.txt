@@ -1,0 +1,3 @@
+pktA: 447
+pktB: 324
+pktC: 49 Wartosc Max:1133357 Wartosc min:24

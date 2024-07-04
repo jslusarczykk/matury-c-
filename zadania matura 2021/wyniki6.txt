@@ -1,0 +1,7 @@
+zad6.1
+kraj
+Niemcy 6
+Rosja 5
+Francja 7
+Stany Zjednoczone 8
+Polska 11

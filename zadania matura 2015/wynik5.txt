@@ -1,0 +1,6 @@
+5.2)
+19 liczba województw w calym kraju
+Region A: liczba województw = 3
+Region B: liczba województw = 4
+Region C: liczba województw = 8
+Region D: liczba województw = 4

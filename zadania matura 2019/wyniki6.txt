@@ -1,0 +1,14 @@
+zad1) 
+Oyal Priather
+Uelques FleuE
+Ologne D'oud
+zad4)
+cena nazwa_p
+141,95  Ourn Boise 
+222,7   Onou Back 
+230,35  Pic An 
+292,4   Nterl Bambola 
+381,65  Ubilato champs 
+489,6 Ibrary Ollec D'or 
+544,85 Ate An 
+660,45 Elov&Musc 

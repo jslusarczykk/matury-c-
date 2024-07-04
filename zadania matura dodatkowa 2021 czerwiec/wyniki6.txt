@@ -1,0 +1,46 @@
+zad6.1) 122
+
+zad6.2)
+nazwa
+Male nutki
+Czerwone wiolonczele
+Ciche organy
+Fajne trojkaty
+Rytmiczne wibrafony
+Zielone akordeony
+Rozstrojone pianina
+Metalowe klarnety
+Piszczace trabki 
+
+zad6.3)
+wojewodztwo	wspolcz
+swietokrzyskie	8
+opolskie	7
+lodzkie	7
+lubuskie	6,5
+slaskie	5,53
+malopolskie	5,33
+lubelskie	5
+podkarpackie	5
+dolnoslaskie	4,75
+wielkopolskie	4,25
+kujawsko-pomorskie	4,25
+zachodniopomorskie	4
+podlaskie	4
+warminsko-mazurskie	4
+pomorskie	2,67
+mazowieckie	2,67
+
+
+zad6.4) 
+nazwa
+Male nutki
+Stare mandoliny
+Wiosenne bebny
+Powolne fortepiany
+Ciche organy
+Fajne trojkaty
+Rozstrojone pianina
+Metalowe klarnety
+Zlote saksofony
+Piszczace trabki

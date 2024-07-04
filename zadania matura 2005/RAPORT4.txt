@@ -1,0 +1,5 @@
+a) firmę D1 wybieramy dla N z zakresu od 1 do 3617, a firmę D2 dla reszty.
+N=100 D1=1,10171 D2=5,50855
+N=1000 D1=10,19 D2=16,761388
+N=5000 D1=53,15 D2=51,10533906
+b)

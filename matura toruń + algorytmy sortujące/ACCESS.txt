@@ -1,0 +1,5 @@
+SELECT indeks FROM Szczepienia
+--Where dat II = NULL
+ORDER BY indeks ASC 
+INNER JOIN Szczepienia.indeks ON Szczepionki.indeks 
+;
